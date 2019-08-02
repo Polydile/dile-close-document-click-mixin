@@ -1,0 +1,25 @@
+{
+  "name": "dile-close-document-click-mixin",
+  "version": "1.0.0",
+  "description": "Mixin to close custom elements when user do click in any area of the document.",
+  "main": "dile-close-document-click-mixin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Polydile/dile-close-document-click-mixin.git"
+  },
+  "keywords": [
+    "mixin",
+    "web",
+    "components",
+    "close"
+  ],
+  "author": "@midesweb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Polydile/dile-close-document-click-mixin/issues"
+  },
+  "homepage": "https://github.com/Polydile/dile-close-document-click-mixin#readme"
+}
