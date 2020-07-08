@@ -1,6 +1,6 @@
 {
   "name": "dile-close-document-click-mixin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mixin to close custom elements when user do click in any area of the document.",
   "main": "dile-close-document-click-mixin.js",
   "scripts": {

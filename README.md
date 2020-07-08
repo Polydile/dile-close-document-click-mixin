@@ -1,3 +1,8 @@
+# Moved
+
+**This package has moved** and is now available at [@dile/dile-close-document-click-mixin](https://github.com/Polydile/dile-components). Please update your dependencies. This repository is no longer maintained.
+
+
 # DileCloseDocumentClickMixin
 
 Mixin to close custom elements when user do click in any area of the document.
